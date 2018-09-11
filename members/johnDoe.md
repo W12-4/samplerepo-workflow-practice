@@ -1,6 +1,8 @@
-# John Doe
+# Chua Zhen Hao
 
 ## Education
+
+Year 3 Computer Science undergraduate at the National University of Singapore
 
 ## Work Experience
 
@@ -9,4 +11,4 @@
 
 ## Accomplishments
 
-* Migrated large legacy system to a new platfrom: During my internship at PayPal, I single-handedly migrated a 20 KLoC software from platfrom X to Y. The migrated version is now live and used internally by 200+ employees.
+* Made a navigation app that integrates your school timetable, to help students find their way around the school for Orbital, a school-based software development project.
