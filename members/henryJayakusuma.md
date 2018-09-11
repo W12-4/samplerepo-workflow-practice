@@ -1,4 +1,4 @@
-# Hnery Jayakusuma
+# Henry Jayakusuma
 
 ## Education
 
